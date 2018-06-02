@@ -21,7 +21,7 @@ V2.1 last update::
 [@SUBCRABE](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
 
 [BUAT AMBIL TOKKEN](https://boteater.com/sniff/)
-##### LOGIN TOKEN OVER LAZYBOT
+- LOGIN TOKEN OVER LAZYBOT
 ## THANKS TO.
 ```
 =========
