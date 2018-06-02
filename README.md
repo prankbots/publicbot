@@ -3,7 +3,7 @@
 - thrift==0.11.0
 - Creator by acil
 - Vorked :: Prankbots
-# PRANKBOTS
+# PYTHON3
 ![Prankbots](prankbots.png)
 V2.1 last update::
 02/juni/2018
