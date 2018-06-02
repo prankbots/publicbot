@@ -1,7 +1,8 @@
 # PRANKBOT PUBLIC
-- update -
-thrift==0.11.0
-
+- update 
+- thrift==0.11.0
+- Creator by acil
+- Vorked :: Prankbots
 # PRANKBOTS
 ![Prankbots](prankbots.png)
 V2.1 last update::
