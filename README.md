@@ -12,7 +12,7 @@ V2.1 last update::
 <a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 # LINE ME
-
+<a href="https://line.me/R/ti/p/%40adiputra.95"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 [ADD_LINE](http://line.me/ti/p/~adiputra.95)
 
 # TUTORIAL YOUTUBE
